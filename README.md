@@ -4,8 +4,7 @@ Analicé las ventas de 2017 de AdventureWorks en seis mercados para comparar ing
 
 Integré ventas, productos, categorías y territorios con SQL, calculé indicadores por país e incorporé el gasto de campañas. Presenté los resultados en Excel y elaboré recomendaciones con la estructura Contexto → Hallazgo → Implicación.
 
-**Autor:** Maximiliano Berrelleza.  
-**Contexto:** proyecto académico del programa Data Analyst de TripleTen.  
+**Contexto:** Proyecto académico de bootcamp de análisis de datos.  
 **Herramientas:** SQL y Excel. Las consultas utilizan conversiones de tipo como `::integer` y `::numeric`.
 
 ## Preguntas de negocio
