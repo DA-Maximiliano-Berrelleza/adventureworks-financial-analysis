@@ -1,5 +1,7 @@
 # AdventureWorks | Análisis del desempeño financiero internacional con SQL
 
+[English](README.en.md)
+
 Analicé las ventas de 2017 de AdventureWorks en seis mercados para comparar ingresos, costos, beneficio bruto, margen y ROI. El objetivo fue aportar evidencia para priorizar mercados y orientar la revisión del presupuesto de marketing.
 
 Integré ventas, productos, categorías y territorios con SQL, calculé indicadores por país e incorporé el gasto de campañas. Presenté los resultados en Excel y elaboré recomendaciones con la estructura Contexto → Hallazgo → Implicación.
